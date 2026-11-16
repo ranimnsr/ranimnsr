@@ -113,41 +113,71 @@ class RanimNasr:
 
 ## Featured Projects &nbsp;🏗️
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/ranimnsr/banking-RAG-assistant">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranimnsr&repo=banking-RAG-assistant&theme=tokyonight&hide_border=true&bg_color=0a0f1a&title_color=A78BFA&icon_color=7C3AED&text_color=8892b0" width="49%"/>
-</a>
-<a href="https://github.com/ranimnsr/AirRoute-Intelligence">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranimnsr&repo=AirRoute-Intelligence&theme=tokyonight&hide_border=true&bg_color=0a0f1a&title_color=A78BFA&icon_color=7C3AED&text_color=8892b0" width="49%"/>
-</a>
+### [`🏦 Banking RAG Assistant`](https://github.com/ranimnsr/banking-RAG-assistant)
+Anti-fraud RAG assistant for banking analysts — LangChain agent with tool-calling, ChromaDB retrieval, ML fraud detection API, Ragas evaluation & MLflow tracking.
 
-<a href="https://github.com/ranimnsr/pulmovision-xai">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranimnsr&repo=pulmovision-xai&theme=tokyonight&hide_border=true&bg_color=0a0f1a&title_color=A78BFA&icon_color=7C3AED&text_color=8892b0" width="49%"/>
-</a>
-<a href="https://github.com/ranimnsr/mlops-fraud">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranimnsr&repo=mlops-fraud&theme=tokyonight&hide_border=true&bg_color=0a0f1a&title_color=A78BFA&icon_color=7C3AED&text_color=8892b0" width="49%"/>
-</a>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![Ragas](https://img.shields.io/badge/Ragas-7C3AED?style=flat-square)
 
-<a href="https://github.com/ranimnsr/diabetes-risk-prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ranimnsr&repo=diabetes-risk-prediction&theme=tokyonight&hide_border=true&bg_color=0a0f1a&title_color=A78BFA&icon_color=7C3AED&text_color=8892b0" width="49%"/>
-</a>
+</td>
+<td width="50%" valign="top">
 
-</div>
+### [`✈️ AirRoute Intelligence`](https://github.com/ranimnsr/AirRoute-Intelligence)
+Temporal link prediction on global flights using TGN (Temporal Graph Networks). Benchmarked on NeurIPS TGB dataset with Streamlit dashboard & resilience analysis.
 
-<details>
-<summary><b>🔍 &nbsp;What each project demonstrates</b></summary>
-<br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PyG](https://img.shields.io/badge/PyG-3C2179?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
-| Project | What It Shows |
-|---------|--------------|
-| **Banking RAG Assistant** | RAG + Tool-calling Agent + LangChain + Chroma + ML fraud detection + Ragas evaluation + MLflow tracking |
-| **AirRoute Intelligence** | Temporal Graph Networks (TGN) + PyTorch Geometric + Streamlit dashboard + rigorous benchmarking (NeurIPS TGB) |
-| **PulmoVision-XAI** | Medical imaging + EfficientNetV2 + Grad-CAM explainability + Gradio interactive demo |
-| **MLOps Fraud Detection** | Full MLOps stack: Docker + Jenkins CI/CD + MLflow + Evidently monitoring + FastAPI deployment |
-| **Diabetes Risk Prediction** | Classical ML pipeline + multi-class classification + fairness analysis + model comparison |
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-</details>
+### [`🫁 PulmoVision-XAI`](https://github.com/ranimnsr/pulmovision-xai)
+Explainable pneumonia screening from chest X-rays — EfficientNetV2-B0 with Grad-CAM visual explanations and a Gradio interface for real-time inference.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Grad-CAM](https://img.shields.io/badge/Grad--CAM-0B7285?style=flat-square)
+![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### [`🐳 MLOps Fraud Detection`](https://github.com/ranimnsr/mlops-fraud)
+End-to-end MLOps fraud detection platform — Jenkins CI/CD, MLflow + DagsHub tracking, Evidently AI monitoring, Docker deployment, FastAPI + Streamlit.
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [`🩺 Diabetes Risk Prediction`](https://github.com/ranimnsr/diabetes-risk-prediction)
+Collaborative ML pipeline for multi-class diabetes risk — preprocessing, EDA, feature engineering, model comparison (LR, XGBoost, RF, KNN) & fairness analysis.
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-EB5B24?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔜 &nbsp;More coming soon...
+Currently working on new projects in **Multi-Agent Systems**, **GraphRAG** and **LLM Evaluation**. Stay tuned!
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1a,50:1a1050,100:3b1d8e&height=2"/>
 
@@ -155,17 +185,17 @@ class RanimNasr:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ranimnsr&show_icons=true&hide_border=true&bg_color=0a0f1a&title_color=A78BFA&icon_color=7C3AED&text_color=8892b0&ring_color=A78BFA&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ranimnsr&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranimnsr&layout=compact&hide_border=true&bg_color=0a0f1a&title_color=A78BFA&text_color=8892b0&langs_count=8" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranimnsr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ranimnsr&hide_border=true&background=0a0f1a&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=8892b0&dates=8892b0&stroke=1a1050&currStreakNum=e6edf3&sideNums=e6edf3" height="180"/>
+<img src="https://streak-stats.demolab.com?user=ranimnsr&theme=tokyonight&hide_border=true" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranimnsr&bg_color=0a0f1a&color=A78BFA&line=7C3AED&point=e6edf3&area_color=4F46E5&area=true&hide_border=true&custom_title=Contribution%20Timeline" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ranimnsr&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Timeline" width="95%"/>
 
 </div>
 
