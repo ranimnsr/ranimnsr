@@ -1,21 +1,19 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0f1a,30:0f1b3d,60:1a1050,100:3b1d8e&height=150&section=header&text=&fontSize=0&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,30:0f1b3d,60:1a1050,100:3b1d8e&height=180&section=header&text=Ranim%20Nasr&fontSize=50&fontColor=e6f1ff&fontAlignY=32&desc=AI%20Engineering%20%7C%20Agentic%20AI%20%7C%20RAG%20%7C%20Data%20Science&descSize=18&descColor=a78bfa&descAlignY=56&animation=fadeIn"/>
 
 <div align="center">
-
-# Hey, I'm Ranim &nbsp;👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&repeat=true&width=620&height=45&lines=%F0%9F%94%AE+AI+Engineer+%7C+Agentic+AI+%7C+RAG+Architect;%F0%9F%A7%A0+LLMs+%C2%B7+Multi-Agent+Systems+%C2%B7+MLOps;%F0%9F%8E%93+Final-Year+Data+Science+Engineering+Student;%F0%9F%94%8D+Seeking+PFE+Internship+in+Europe+%E2%80%94+2027)](https://git.io/typing-svg)
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/-Ranim_Nasr-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ranim-nasr-54ba0331a/)
-[![Gmail](https://img.shields.io/badge/-ranimnasr2017-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranimnasr2017@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranimnasr2017@gmail.com)
 [![GitHub](https://img.shields.io/badge/-ranimnsr-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ranimnsr)
-![Profile Views](https://komarev.com/ghpvc/?username=ranimnsr&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)
+![Views](https://komarev.com/ghpvc/?username=ranimnsr&style=for-the-badge&color=A78BFA&label=PROFILE+VIEWS)
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1a,50:1a1050,100:3b1d8e&height=2"/>
 
 ## `> whoami` &nbsp;🖥️
 
@@ -29,7 +27,7 @@ class RanimNasr:
     looking_for = "4–6 month PFE internship starting early 2027 — Europe preferred"
 ```
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1a,50:1a1050,100:3b1d8e&height=2"/>
 
 ## Experience &nbsp;🚀
 
@@ -58,15 +56,16 @@ class RanimNasr:
 </tr>
 </table>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1a,50:1a1050,100:3b1d8e&height=2"/>
 
 ## Tech Arsenal &nbsp;⚡
 
 <div align="center">
 
 ### 🤖 &nbsp;AI & LLM Engineering
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
 ![GraphRAG](https://img.shields.io/badge/GraphRAG-7C3AED?style=for-the-badge)
 ![Multi--Agent](https://img.shields.io/badge/Multi--Agent-4F46E5?style=for-the-badge)
@@ -74,22 +73,25 @@ class RanimNasr:
 ![LLM Eval](https://img.shields.io/badge/LLM_Eval-6D28D9?style=for-the-badge)
 ![Ragas](https://img.shields.io/badge/Ragas-8B5CF6?style=for-the-badge)
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=1a1050&height=3&section=header" width="60%"/>
+
 ### 🧠 &nbsp;ML / DL & Computer Vision
+
 <p>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,opencv&theme=dark" alt="ML stack"/>
-</a>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" alt="ML stack"/>
 </p>
 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EB5B24?style=for-the-badge)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Grad-CAM](https://img.shields.io/badge/Grad--CAM-0B7285?style=for-the-badge)
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=1a1050&height=3&section=header" width="60%"/>
+
 ### ⚙️ &nbsp;Data Engineering & MLOps
+
 <p>
-<a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=docker,fastapi,kafka,postgres&theme=dark" alt="Data eng stack"/>
-</a>
 </p>
 
 ![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
@@ -97,16 +99,17 @@ class RanimNasr:
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=for-the-badge)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=1a1050&height=3&section=header" width="60%"/>
+
 ### 🛠️ &nbsp;Languages & Tools
+
 <p>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,r,bash,git,github,linux,vscode,jupyter&theme=dark" alt="Tools"/>
-</a>
+<img src="https://skillicons.dev/icons?i=python,r,bash,git,github,linux,vscode&theme=dark" alt="Tools"/>
 </p>
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1a,50:1a1050,100:3b1d8e&height=2"/>
 
 ## Featured Projects &nbsp;🏗️
 
@@ -146,7 +149,7 @@ class RanimNasr:
 
 </details>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1a,50:1a1050,100:3b1d8e&height=2"/>
 
 ## GitHub Analytics &nbsp;📊
 
@@ -158,7 +161,7 @@ class RanimNasr:
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=ranimnsr&hide_border=true&background=0a0f1a&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=8892b0&dates=8892b0&stroke=1a1050&currStreakNum=e6edf3&sideNums=e6edf3" height="180"/>
+<img src="https://streak-stats.demolab.com?user=ranimnsr&hide_border=true&background=0a0f1a&ring=A78BFA&fire=7C3AED&currStreakLabel=A78BFA&sideLabels=8892b0&dates=8892b0&stroke=1a1050&currStreakNum=e6edf3&sideNums=e6edf3" height="180"/>
 
 <br/><br/>
 
@@ -166,7 +169,7 @@ class RanimNasr:
 
 </div>
 
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1a,50:1a1050,100:3b1d8e&height=2"/>
 
 ## Education &nbsp;🎓
 
@@ -182,9 +185,7 @@ class RanimNasr:
 
 </div>
 
-<br/>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0f1a,50:1a1050,100:3b1d8e&height=2"/>
 
 <div align="center">
 
@@ -206,4 +207,4 @@ class RanimNasr:
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0a0f1a,30:0f1b3d,60:1a1050,100:3b1d8e&height=80&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,30:0f1b3d,60:1a1050,100:3b1d8e&height=120&section=footer&animation=fadeIn"/>
