@@ -185,17 +185,17 @@ Currently working on new projects in **Multi-Agent Systems**, **GraphRAG** and *
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ranimnsr&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranimnsr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=ranimnsr&theme=tokyonight&hide_border=true" height="180"/>
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ranimnsr&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Timeline" width="95%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ranimnsr&theme=tokyonight" height="160"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ranimnsr&theme=tokyonight" height="160"/>
 
 </div>
 
